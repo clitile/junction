@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">学生信息系统</string>
+    <string name="学号">学号: </string>
+    <string name="输入学号">输入学号</string>
+    <string name="查询">查询</string>
+    <string name="学习信息">学习信息</string>
+    <string name="生活信息">生活信息</string>
+    <string name="信息显示">信息显示框</string>
+    <string name="下载信息">下载信息</string>
+    <string name="姓名">姓名</string>
+    <string name="班级">班级</string>
+    <string name="todo">TODO</string>
+</resources>
